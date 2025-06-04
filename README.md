@@ -1,4 +1,4 @@
-# 🦙 Real-Time LLaMA Inference Web App using Hugging Face and GCP
+# 🦙 Real-Time LLaMA Inference Web App AI Chatbot using Hugging Face and GCP
 
 This project runs a heavy LLaMA model (e.g., LLaMA 2 7B) with a simple Streamlit interface, deployed on a GCP VM with GPU support.
 
